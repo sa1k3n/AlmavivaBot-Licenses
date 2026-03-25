@@ -1,0 +1,11 @@
+{
+  "licenses": [
+    {
+      "email": "user1@example.com",
+      "hardwareId": "ABCDEF1234567890ABC1",
+      "licenseKey": "LK-2026-001-ABCDEF",
+      "status": "active",
+      "expiryDate": "2026-12-31"
+    }
+  ]
+}
