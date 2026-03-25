@@ -1,11 +1,13 @@
 {
   "licenses": [
     {
-      "email": "user1@example.com",
-      "hardwareId": "ABCDEF1234567890ABC1",
-      "licenseKey": "LK-2026-001-ABCDEF",
+      "email": "sa1k3n@example.com",
+      "hardwareId": "1FF09ACD71E262DF655E",
+      "licenseKey": "LK-2026-ADMIN-0001",
       "status": "active",
-      "expiryDate": "2026-12-31"
+      "expiryDate": "2099-12-31",
+      "role": "admin",
+      "notes": "Admin machine"
     }
   ]
 }
