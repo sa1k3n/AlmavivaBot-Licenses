@@ -7,6 +7,14 @@
       "expiryDate": "2099-12-31",
       "role": "admin",
       "notes": "Admin machine"
+    },
+    {
+      "name": "Youssef Essam",
+      "hardwareId": "8680CBE4C213CC76458E",
+      "status": "active",
+      "expiryDate": "2026-05-01",
+      "role": "user",
+      "notes": "Youssef Nasser"
     }
   ]
 }
